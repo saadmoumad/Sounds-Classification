@@ -1,0 +1,8 @@
+number_of_epochs: 10
+batch_size: 8
+dropout: 0.3 
+base_lr: 0.005 
+sample_rate: 40_000 
+spec_len: 720
+meta_path: "./data/train.csv"
+audios_path: "./data/data/train/"
